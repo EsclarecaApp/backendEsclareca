@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "jest": "^26.4.2",
     "supertest": "^4.0.2"
   },
