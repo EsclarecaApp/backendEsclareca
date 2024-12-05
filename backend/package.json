@@ -29,7 +29,7 @@
     "expo-server-sdk": "^3.6.0",
     "exponent-server-sdk": "^2.3.1",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-simple": "^0.5.6",
     "moment": "^2.27.0",
     "moment-timezone": "^0.5.31",
